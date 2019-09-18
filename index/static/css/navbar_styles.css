@@ -4,11 +4,11 @@
   background-image: url('../header.jpg');
 
   /* Full height */
-  height: 100px;
+  height: 150px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
-  background-position: center;
+  background-position: 50% 300%;
   background-repeat: no-repeat;
   background-size: cover;
 

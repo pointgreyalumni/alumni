@@ -15,8 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -35,17 +35,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/index/static" />
+      <recent name="$PROJECT_DIR$/index/static/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/index/templates/index" />
       <recent name="$PROJECT_DIR$/index/static" />
       <recent name="$PROJECT_DIR$/local" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/index/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -107,7 +109,7 @@
       <workItem from="1564909231844" duration="1312000" />
       <workItem from="1565043090065" duration="105000" />
       <workItem from="1568770661241" duration="1204000" />
-      <workItem from="1568772275149" duration="602000" />
+      <workItem from="1568772275149" duration="1923000" />
     </task>
     <servers />
   </component>

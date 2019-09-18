@@ -1,16 +1,16 @@
 {% load staticfiles %}
 
-<div class="header-parallax"><h1 style="display: inline; padding: 15px; color: #f1f1f1"> Where to next?</h1></div>
+<div class="header-parallax"><h1 style="display: inline; padding: 15px; color: #000000"> Welcome, Point Grey Alumni</h1></div>
 
 <ul>
   <li><a href="{% url 'index' %}" class="{% if request.resolver_match.view_name == 'index' %}active{% endif %}">Home</a></li>
-  <li><a href="news">Photos</a></li>
+  <li><a href="photos" class="{% if request.resolver_match.view_name == 'photos' %}active{% endif %}">Photos</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn {% if request.resolver_match.view_name == 'profiles' %}active{% endif %}">Configuration Profiles</a>
+    <a href="javascript:void(0)" class="dropbtn {% if request.resolver_match.view_name == 'profiles' %}active{% endif %}">Profiles</a>
     <div class="dropdown-content">
-      <a href="{% url 'profiles' %}">Apple</a>
-      <a href="#">Android</a>
-      <a href="#">Microsoft</a>
+      <a href="#">Thing 1</a>
+      <a href="#">Thing 2</a>
+      <a href="#">Thing 3</a>
     </div>
   </li>
 </ul>

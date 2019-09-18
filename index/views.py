@@ -11,8 +11,8 @@ def index(request):
     return HttpResponse(template.render(context, request))
 
 
-def profiles(request):
-    template = get_template('index/profiles.html')
+def photos(request):
+    template = get_template('index/photos.html')
     context = {
     }
 
