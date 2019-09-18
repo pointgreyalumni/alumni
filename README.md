@@ -1,1 +1,5 @@
-This is the home site for my residence
+Welcome, Point Grey Alumni
+
+pointgreyalumni.herokuapp.com
+
+

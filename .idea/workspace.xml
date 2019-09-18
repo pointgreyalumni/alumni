@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2965d6-75a0-464d-b852-6fc10fe6c0cc" name="Default Changelist" comment="" />
+    <list default="true" id="cb2965d6-75a0-464d-b852-6fc10fe6c0cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alumni/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/alumni/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/Django-2.2.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/Django-2.2.3.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/Django-2.2.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/Django-2.2.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/Django-2.2.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/Django-2.2.3.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/Django-2.2.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/postgres/fields/hstore.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/postgres/fields/hstore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/postgres/fields/jsonb.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/postgres/fields/jsonb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/postgres/fields/ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/postgres/fields/ranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/db/models/expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/db/models/expressions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/autoreload.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/autoreload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/html.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/translation/reloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/translation/reloader.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +132,8 @@
       <workItem from="1564909231844" duration="1312000" />
       <workItem from="1565043090065" duration="105000" />
       <workItem from="1568770661241" duration="1204000" />
-      <workItem from="1568772275149" duration="1923000" />
+      <workItem from="1568772275149" duration="2414000" />
+      <workItem from="1568774963594" duration="377000" />
     </task>
     <servers />
   </component>
