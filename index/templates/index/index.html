@@ -1,0 +1,17 @@
+{% extends 'index/base.html' %}
+{% load staticfiles %}
+
+{% block title %}Home{% endblock %}
+
+{% block navbar %}
+    {% include 'index/navbar.html' %}
+{% endblock %}
+
+{% block stylesheet %}
+{% endblock %}
+
+{% block content %}
+    <h3>You are connecting from {{ request.user_agent.os.family }}</h3>
+    <p>Welcome.</p>
+
+{% endblock %}

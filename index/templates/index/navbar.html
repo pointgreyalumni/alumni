@@ -1,0 +1,16 @@
+{% load staticfiles %}
+
+<div class="header-parallax"><h1 style="display: inline; padding: 15px; color: #f1f1f1"> Where to next?</h1></div>
+
+<ul>
+  <li><a href="{% url 'index' %}" class="{% if request.resolver_match.view_name == 'index' %}active{% endif %}">Home</a></li>
+  <li><a href="news">Photos</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn {% if request.resolver_match.view_name == 'profiles' %}active{% endif %}">Configuration Profiles</a>
+    <div class="dropdown-content">
+      <a href="{% url 'profiles' %}">Apple</a>
+      <a href="#">Android</a>
+      <a href="#">Microsoft</a>
+    </div>
+  </li>
+</ul>
